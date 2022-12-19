@@ -5,15 +5,30 @@ body{
 
 }
 
+
+/* HEADINGS*/
 .header--main{
     font-weight: normal;
     font-size: 50px;
     color:#fff;
 }
 
+.header--2{
+color: #ffffff;
+font-weight: 300;
+font-size: 40px;
+}
+
+.header--3{
+    font-size: 18px;
+    color: grey;
+}
+
+/* LINKS*/
+
 .link--cta{
     font-weight: normal;
-    font-size: 20px;
+    font-size: 15px;
     color:aqua
 }
 
