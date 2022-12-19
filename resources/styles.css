@@ -29,11 +29,13 @@ font-size: 40px;
 .link--cta{
     font-weight: normal;
     font-size: 15px;
-    color:aqua
+    color:aqua;
 }
 
+
 /*FOOTER*/
-.link--cta{
+
+.link--ct{
 font-weight: normal;
 font-size: 21px;
 color:grey;
